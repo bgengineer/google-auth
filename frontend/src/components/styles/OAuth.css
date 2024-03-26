@@ -1,0 +1,10 @@
+.oauth-button {
+    padding: 1rem;
+    border: none;
+    border-radius: 3px;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    width: 100%; /* To make the button take full width of its container */
+    margin-top: 1rem; /* Optional: to add some space between the SIGN UP button and OAuth button */
+  }
